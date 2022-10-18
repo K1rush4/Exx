@@ -8,4 +8,9 @@ public class class1 {
     dfsafd
     gffgb
             bb
+    bb
+
+    public bb getBb() {
+        bb
+    }
 }
