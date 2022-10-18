@@ -5,4 +5,7 @@ public class class1 {
     hfgds
     hygrfhtsdd
             7666
+    dfsafd
+    gffgb
+            bb
 }
